@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<hotpot-jmix-file>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <rdf:Description rdf:about="">
+    <dc:creator>german</dc:creator>
+    <dc:title>&amp;#x00BF;Qu&amp;#x00E9; es un Cable UTP?</dc:title>
+  </rdf:Description>
+</rdf:RDF><version>7</version>
+
+<data>
+<title>&amp;#x00BF;Qu&amp;#x00E9; es un Cable UTP?</title>
+
+<timer><seconds>180</seconds><include-timer>1</include-timer></timer>
+
+<reading>
+<include-reading>0</include-reading>
+<reading-title></reading-title>
+<reading-text></reading-text>
+
+</reading>
+
+<jumbled-order-exercise><main-order><segment>El cable UTP o</segment>
+<segment>Cable de par trenzado por sus siglas en ingles,</segment>
+<segment>es una clase de cable que no</segment>
+<segment>se encuentra blindado y</segment>
+<segment>que</segment>
+<segment>suele emplearse</segment>
+<segment>en las telecomunicaciones.</segment>
+<segment>Se puede colocar un conector</segment>
+<segment>en el extremo de estos cables.</segment>
+<segment>Estos conectores tambi&amp;#x00E9;n se conocen como</segment>
+<segment>enchufes RJ45.</segment>
+</main-order><alternate>El cable UTP oCable de par trenzado por sus siglas en ingles,es una clase de cable que no se encuentra blindado y que suele emplearse en las telecomunicaciones.</alternate>
+<alternate>El cable UTP oCable de par trenzado por sus siglas en ingles,suele emplearse en las telecomunicaciones.</alternate>
+<alternate>Se puede colocar un conector en el extremo de estos cables. Estos conectores tambi&amp;#x00E9;n se conocen como enchufes RJ45.</alternate>
+</jumbled-order-exercise>
+</data>
+
+<hotpot-config-file>
+<jmix>
+<exercise-subtitle>Redes de Computadora</exercise-subtitle>
+<instructions>Coloca las partes en orden para formar una frase. Cuando creas que tu respuesta es correcta, haz clic en &quot;Compruebe&quot; para comprobarla. Si te quedas atascado, haz clic en &quot;Pista&quot; para encontrar la siguiente parte correcta.</instructions>
+<guess-correct>&amp;#x00A1;Correcto!</guess-correct>
+<guess-incorrect>Lo siento. Int&amp;#x00E9;ntalo de nuevo.</guess-incorrect>
+<this-much-correct>Esta parte de tu respuesta es correcta:</this-much-correct>
+<next-correct-part>La siguiente parte correcta es</next-correct-part>
+<click-to-add>Haz clic en las palabras para a&amp;#x00F1;adirlas a la frase.</click-to-add>
+<also-correct>Estas respuestas tambi&amp;#x00E9;n son correctas:</also-correct>
+<include-undo>1</include-undo>
+<include-restart>1</include-restart>
+<include-hint>1</include-hint>
+<next-ex-url>nextpage.htm</next-ex-url>
+<send-email>0</send-email>
+<capitalize-first-letter>1</capitalize-first-letter>
+<separate-javascript-file>0</separate-javascript-file>
+</jmix>
+
+<global>
+
+<times-up>Su tiempo se ha acabado.!</times-up>
+<check-caption>Compruebe</check-caption>
+<ok-caption>Aceptar</ok-caption>
+<undo-caption>Deshacer</undo-caption>
+<hint-caption>Pista</hint-caption>
+<restart-caption>Reiniciar</restart-caption>
+<your-score-is>Tu puntuaci&amp;#x00F3;n es</your-score-is>
+<show-also-correct>1</show-also-correct>
+<process-for-rtl>0</process-for-rtl>
+<include-scorm-12>0</include-scorm-12>
+<next-ex-caption>=&amp;#x003E;</next-ex-caption>
+<back-caption>&amp;#x003C;=</back-caption>
+<contents-caption>Home</contents-caption>
+<include-next-ex>1</include-next-ex>
+<include-contents>1</include-contents>
+<include-back>0</include-back>
+<contents-url>contents.htm</contents-url>
+<contents-url>contents.htm</contents-url>
+<graphic-url>326_utp_cables.jpg</graphic-url>
+<font-face>Arial,sans-serif</font-face>
+<font-size>medium</font-size>
+<page-bg-color>#00ff40</page-bg-color>
+<title-color>#000000</title-color>
+<ex-bg-color>#ffffff</ex-bg-color>
+<text-color>#000000</text-color>
+<link-color>#0000FF</link-color>
+<vlink-color>#0000CC</vlink-color>
+<nav-bar-color>#000000</nav-bar-color>
+<formmail-url>http://yourserver.com/cgi-bin/FormMail.pl</formmail-url>
+<email>you@yourserver.com</email>
+<name-please>Please enter your name:</name-please>
+<user-string-1>one</user-string-1>
+<user-string-2>two</user-string-2>
+<user-string-3>three</user-string-3>
+<header-code></header-code>
+</global>
+</hotpot-config-file>
+</hotpot-jmix-file>
